@@ -19,4 +19,3 @@ def play_sine_wave(frequency, duration):
 if __name__ == "__main__":
     print("🎵 Playing a 440Hz sine wave for 2 seconds...")
     play_sine_wave(440, 2)
-rerefe
